@@ -1,7 +1,7 @@
 [Hiss]
 <p>
 Got Caitie yesterday, very easy.
-As far as the slave is alive, better to store weapons in safe.
+As far as the slave is alive, better to store weapons in my safe.
 <p>
 <p>
 Test 1: short sentence, then a new empty line
