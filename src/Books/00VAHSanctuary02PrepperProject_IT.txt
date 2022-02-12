@@ -1,9 +1,5 @@
 [Hiss]
 <p>
-Ieri ho catturato Caitie, è stato facile.
-Fino a che è viva, mi conviene tenere le armi in cassaforte.
-<p>
-<p>
 Test 1: frase corta, poi una riga vuota
 <p>
 Test 2: questa è una frase lunga dopo la quale non ci deve essere una linea vuota ma solo un a capo per controllare come scorre il testo sulla pagina.

@@ -1,9 +1,5 @@
 [Hiss]
 <p>
-Got Caitie yesterday, very easy.
-As far as the slave is alive, better to store weapons in my safe.
-<p>
-<p>
 Test 1: short sentence, then a new empty line
 <p>
 Test 2: This is a very long sentence followeb by no new empty line, let us see what's the resulting text flow on the paper.
