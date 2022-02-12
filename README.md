@@ -20,7 +20,7 @@ For manual install instructions see [PC Manual Installation](docs/PC_MANUAL_INST
 
 ### PC Mod manager installation
 
-The mod is in an early development stage so no packages have been posted on Nexus or other mod sites, when we publish the first consolidated version we will post detailed instructions. 
+The mod is in an early development stage so no packages have been published on Nexus or other mod sites, when we will release the first consolidated version we will write detailed instructions.
 
 ### Console installation
 
