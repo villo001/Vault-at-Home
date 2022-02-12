@@ -1,12 +1,10 @@
-# Vault-at-Home Personal Shelter - Manual installation on PC
-
 [Home](/README.md)
 
-
+# Vault-at-Home Personal Shelter - Manual installation on PC
 
 ## Installation from snapshot
 
-iYou only need to download the file
+You only need to download the file
 
 [VaultAtHomePersonalShelter.esp](/VaultAtHomePersonalShelter.esp)
 
