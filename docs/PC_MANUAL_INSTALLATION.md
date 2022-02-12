@@ -2,6 +2,8 @@
 
 [Home](/README.md)
 
+
+
 ## Installation from snapshot
 
 iYou only need to download the file
@@ -11,5 +13,7 @@ iYou only need to download the file
 and put it in the base game directory.
 
 Then start Fallout 4 and enable it in the MOD menù.
+
+
 
 [Home](/README.md)
