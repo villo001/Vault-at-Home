@@ -2,7 +2,7 @@
 <p>
 Test 1: short sentence, then a new empty line
 <p>
-Test 2: This is a very long sentence followeb by no new empty line, let us see what's the resulting text flow on the paper.
+Test 2: This is a very long sentence followed by no new empty line, let us see what's the resulting text flow on the paper.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin interdum mollis elit a tempus. Nunc et efficitur lectus, sed ultrices magna. Morbi tellus lectus, tempor nec est vel, tristique sagittis justo. In hac habitasse platea dictumst. Aliquam eleifend iaculis est eu fermentum. Nulla sed interdum diam, in consectetur ante. Suspendisse tincidunt turpis augue, eu tempor lectus cursus nec. Ut malesuada consequat dictum. Suspendisse vitae tincidunt justo. Nam lacus ex, vestibulum in lobortis ut, mattis vel quam. 
 <p>
 Test 3: sentence after a new empty line.
