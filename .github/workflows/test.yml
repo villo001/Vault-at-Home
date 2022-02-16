@@ -42,7 +42,15 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - uses: actions/upload-artifact@v2
-      with:
-        name: mod-artifact
-        path: VaultAtHomePersonalShelter.esp
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # debug, check the structure
+      - name: view directories
+        run: ls -l
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: mod-artifact
+          path: VaultAtHomePersonalShelter.esp
+
