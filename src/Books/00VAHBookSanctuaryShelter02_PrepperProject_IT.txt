@@ -1,8 +1,120 @@
-[Hiss]
-<p>
-Test 1: frase corta, poi una riga vuota
-<p>
-Test 2: questa è una frase lunga dopo la quale non ci deve essere una linea vuota ma solo un a capo per controllare come scorre il testo sulla pagina.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin interdum mollis elit a tempus. Nunc et efficitur lectus, sed ultrices magna. Morbi tellus lectus, tempor nec est vel, tristique sagittis justo. In hac habitasse platea dictumst. Aliquam eleifend iaculis est eu fermentum. Nulla sed interdum diam, in consectetur ante. Suspendisse tincidunt turpis augue, eu tempor lectus cursus nec. Ut malesuada consequat dictum. Suspendisse vitae tincidunt justo. Nam lacus ex, vestibulum in lobortis ut, mattis vel quam. 
-<p>
-Test 3: frase dopo una riga vuota.
+Prepper Project, di John Winter
+
+
+13 gennaio 2065
+Jahani, il nuovo vicino, e' ossessionato dai complotti del Governo e dalla guerra, un vero prepper. Non capivamo come mai prima di traslocare si fosse fatto costruire una dispensa interrata, ma ora ho capito: e' un bunker.
+Un bunker antiatomico, rifornito di tutto, me l'ha rivelato lui dopo che gli ho venduto un po' di psycho.
+Poveretta sua moglie, la fa dormire nel bunker anche se e' incinta...
+
+4 marzo 2065
+Quel mentecatto di Jahani mi ha dato un'idea: mi costruisco un bunker anche io, ma non perche' io creda ai complotti: e' pericolosissimo portare i miei giocattolini a casa, c'e' il rischio che i vicini vedano o sentano qualcosa.
+
+21 giugno 2065
+Non pensavo di fare cosi' in fretta, ma sempre Jahani mi ha dato l'idea: ho promesso delle mentats ai due tossici che lavorano alla Mass Gravel and Sand. Sono cretini, con le mentats si sentono piu' intelligenti e sono anni che me le comprano, ma sanno il fatto loro: in una settimana mi hanno scavato e costruito il bunker senza che nessuno se ne accorgesse (tranne Jahani, lui lo sa, hanno costruito anche la sua dispensa). E non hanno neppure detto nulla quando gli ho fatto aggiungere quella stanza...
+
+8 agosto 2065
+Forse Janahi e' meno matto di quello che sembra.
+Ok, crede a tutti i complotti sul Governo e a una guerra imminente e ha convinto anche O'keefe e Williams di Concord (sembra avere un fiuto particolare per trovare i miei clienti) ma la settimana scorsa davanti una bottiglia di bourbon mi ha esposto un progetto, scavare un sistema di tunnel per collegare tutti i nostri bunker.
+Sul momento gli ho riso in faccia, ma mano a mano che spiegava mi sono ricreduto, e' un visionario: conosce prepper come lui a Concord, Lexington, Malden, Boston, Revere... E mi spiegava che non c'e' bisogno di scavare tutto a mano, per iniziare possiamo usare le vecchie stazioni e tunnel di Sanctuary, Concord fino a Lexington, dopo che c'e' stata l'esplosione per la fuga di gas hanno chiuso tutto e la metro si ferma a Lexington.
+Ho fatto controllare a Mendoza della MTA (ottimo cliente, Bufftats ogni settimana, prima o poi mi spieghera' come li usa) ed e' vero: la metro arrivava a Sanctuary, dopo che e' esploso tutto hanno chiuso, smantellato l'ingresso in superficie e via. A Concord l'ingresso e' rimasto, vicino al museo, lo tengono chiuso.
+Fino a Lexington non ci sono problemi, poi ci sara da scavare di piu' ma francamente la cosa mi tenta: copertura assoluta per i miei traffici. E per quelli del mio fratellino Eddie, ovviamente, gli lascio il guinzaglio lungo, tanto nessuno sa che siamo fratelli.
+
+1 ottobre 2065
+Jahani mi ha convinto, lui coinvolge le persone e io caccio i soldi sotto forma di sostanze da scambiare con i miei clienti tossici per il loro lavoro. Alla fine mi conviene, non spendo quasi nulla a crearle, e ci metto poco tempo visco che il laboratorio chimico fa tutto lui.
+I due tossici che lavorano alla Mass Gravel and Sand sono fantastici, li ho messi a disposizione di Jahani e in una settimana hanno creato il tunne fra i nostri due bunker e in un'altra settimana hanno sfondato nella vecchia stazione. Hanno anche dato consigli a Jahani, fosse stato per lui avrebbe scavato nella direzione opposta, evidentemente le mie Mentats con loro due funzionano davvero.
+
+29 gennaio 2066
+Il tunnel di servizio dalla vecchia stazione di Sanctuary a quella di Concord era libero quindi e' stato facilissimo arrivarci.
+I due tossici (non so come facciano, di notte lavorano con nui e di giorno alla cava!) hanno scavato tuti i tunnel a Concord, O'Keefe e Williams avevano gia' i loro bunker pronti.
+Non so chi glieli abbia scavati, anche se credo che quello degli Williams ci fosse gia', pero' Anders mi inquieta.
+Sembra un militare in congedo con una casetta a Concord ma puzza di DIA lontato un miglio: lui, i suoi tre "fratelli" e quella troietta di sua "figlia" che compra sacche di sangue in continuazione.
+Non c'era posto per cinque persone in quel tugurio e infatti e' saltato fuori che ha un bunker e lo vuole collegare alla stazione di Concord.
+Non mi fido, quando rivedo la figlia glielo dico chiaro e tondo: se non mi dice la verita', niente piu' acquisti da me.
+
+31 gennaio 2066
+E' arrivato uno degli "zii" della stronza, quello piu' grosso. E' entrato in casa, mi ha spezzato tutte le dita della mano sinistra e poi se n'e' andato senza dire niente.
+
+2 febbraio 2066
+Anders ha collegato il suo bunker alla stazione di Concord, evidentemente aveva gia' preparato tutto e gli e' bastato forare il pavimento.
+Ha un accesso suo, privato, non abbiamo la chiave.
+
+19 aprile 2066
+Ho parlato un po' con Harkin, Delano e la Ciroletti della RobCo, mi comprano tutti i tipi di Mentats a profusione, li usano al lavoro: sono eccitatissimi, vogliono uno shelter anche loro e in cambio ci forniranno generatori, banchi da lavoro, tecnologia ecc... per le stazioni della metro che stiamo usando, cosi' diventeranno veri e propri hub.
+A questo punto dobbiamo organizzarci meglio, si tratta di arrivare fino a Boston, ne parlero' a Jahani, ma dobbiamo stare attenti, non so cosa facciano alla RobCo ma sono ammanicati con i militari, se non con la DIA.
+
+4 novembre 2066
+Non credevo che le cose potessero accelerare cosi', sono stato cosi' occupato che non ho scritto niente per mesi, e negli ultimi due non mi sono procurato neppure un giocattolo.
+Abbiamo creato una vera e propria associazione di prepper, e quei matti l'hanno chiamata Vault-at-Home in spregio alla Vault-Tec, al Governo e ai militari, vogliono anche fare pubblicita'. Speriamo di non attirarci dei guai...
+Come Segretario alle riunioni sono stato a contatto con i tizi piu' strambi del Commonwealth, ad una riunione e' venuto persino quel pazzoide di Gorski che quando ha saputo che Jahani e' il Presidente ha annuito poi e' rimasto in silenzio tutta la sera.
+I due tossici della Mass Gravel and Sand li abbiamo assunti in pianta stabile, basta che abbiano una fornitura regolare di Mentats e non risalgono neppure in superficie. Mio fratello Eddie ci ha procurato un po' di carne da cannone (dove li abbia presi non lo so, ma hanno tutti un collare e sono senza lingua) e sotto la guida dei due tossici abbiamo aperto i tunnel di servizio dalla stazione di Concord a quella di Lexington e sempre a Lexington stiamo scavando il quartier generale della associazione.
+Alla stazione di Lexington pero' dobbiamo stare attenti, e' in uso e collegata a Boston, devo sentire Mendoza della MTA per qualche consiglio.
+
+16 gennaio 2067
+Non mi piace, non mi piace per niente.
+Oggi sono andato a vedere per la prima volta il nuovo quartier generale a Lexington e quella e' tecnologia militare.
+Va bene che hanno procurato tutto Harkin, Delano e la Ciroletti facendola uscire da dove lavorano ma quella non e' tecnologia RobCo, e' militare.
+A meno che la RobCo non utilizzi direttamente tecnologia militare, il che mi piacerebbe ancora meno.
+
+23 gennaio 2067
+Quel matto di Gorski ha scavato il suo tunnel tutto da solo, arrivando a sfondare in una stanza macchinari del tunnel di servizio tra Concord e Lexingron. La porta e' sbarrata ma non ho dubbi, e' lui, ho sentito la sua voce urlare di andarmene mentre cercavo di forzarla.
+Mi piace il suo spirito, non diro' nulla a nessuno anche se credo che Jahani lo sappia.
+
+28 novembre 2067
+La rete mi e' molto utile, a me e a Eddie, ma continuo a rimanere in ansia, c'e' qualcosa che non mi convince.
+Sto lavorando come uno schiavo fra preparare le droghe per ungere tutte le ruote, presenziare a riunioni, prendere decisioni, supervisionare i lavori, e la cosa sta diventando lampante.
+Abbiamo iniziato come un gruppo di prepper, dovremmo avere tunnel scavati nel terreno e hub con pareti in mattoni e invece cosa vedo?
+Tecnologie militari, apparati che solo la DIA dovrebbe avere, macchinari RobCo (finalmente li ho visti, roba stranissima), robot della General Atomics e ora anche tecnologia Vault-Tec.
+Non mi lascio infinocchiare, quella e' roba Vault-Tec.
+E i soldi, in cassa abbiamo fiumi di soldi, non sono un contabile e mi sembra tutto a posto. Ma non e' possibile, dovrebbero essere donazioni di soci ma i soci che vedo io sono tutti miserabili disadattati che vivono in buchi nel terreno come Gorski.
+Non torna, dei disadattati non possono avere accesso a tutto cio'.
+Devo sguinzagliare Eddie, e magari anche McDermott, sono anni che gli fornisco Buffout gratis solo perche' e' un poliziotto e ho paura che mi metta al gabbio, e' ora che mi dia qualcosa in cambio.
+
+18 febbraio 2068
+Ci ho messo un po' di mesi per venirne a capo, ma ora mi sono fatto una idea.
+McDermott e' amico d'infanzia del capitano Widmark della Polizia di Boston ed e' ammanicato col tenente Zawinski della BADTFL che gli deve un favore.
+Ha fatto un po' di domande ed e' saltato fuori che i vertici del quartier generale regionale di Boston della Vault-Tec non si fidano della ditta per cui lavorano, e non hanno nessuna intenzione di accettare un posto in uno dei loro Vault.
+Lavorano a stretto contatto con la DIA, ma non mi era chiaro il collegamento con noi.
+Quello me l'ha spiegato Eddie.
+E' cosa nota nell'ambiente che i delinquenti presi di mira dalla DIA scompaiono nel nulla, senza lasciare tracce. Pero' Eddie ha anche lui qualche contatto alla BADTFL, e sembra che i delinquesti fatti scomparire dalla DIA vengano portati in un centro della RobCO, per quali motivi non e' dato di sapere.
+Il collegamento reale sono io: ho parlato del progetto con Harkin, Delano e la Ciroletti della RobCo che sono ammanicati con la DIA e ne hanno parlato con loro che, a loro volta, ne hanno parlato con i dirigenti della Vault-Tec.
+Siamo arrivati a questo punto: una manica di prepper scalcagnati e improbabili, complottisti nell'animo e ferocemente contro il Governo e i militari sta costruendo una rete di rifugi antiatomici totalmente fuori dal controllo della Vaul-Tec, dei militari del Governo (quindi sicuri per definizione) e li fornisce ai tecnici della RobCo, agli ufficiali della DIA e ai vertici della Vault-Tec di Boston.
+L'ironia piu' grande e' che ora, io e mio fratello Eddie, siamo nella posizione di fare qualsiasi cosa e rimanere impuniti, li teniamo in pugno.
+Pero' questo diario me lo posto nel bunker e lo metto in cassaforte, ora non mi fido a lasciarlo in giro.
+
+4 marzo 2077
+Questo lo devo scrivere: Eddie ha esagerato.
+Fino ad ora e' rimasto impunito e ha messo in piedi il racket piu' grosso del Commonwealth ma ora McDermott mi ha fatto sapere che e' sotto tiro, stanno parlando di istituire una squadra speciale solo per lui.
+Ho tentato di avvertirlo ma mi ha solo detto di avere la situazione sotto controllo.
+Sara' anche mio fratello ma e' uno stronzo, mi devo parare il culo, domani vado al Bridgeway Trust a parlare con Ward, il mio consulente, devo vedere come fare. In fin dei conti gli ho venduto Daytripper a basso prezzo per due anni, a lui e a sua moglie, in cambio ha sempre ripulito al meglio i miei soldi facendomeli anche investire in modo vantaggioso, se c'e' qualcuno che puo' crearmi una identita' sulla costa ovest e spostare tutto la, quello e' lui.
+
+5 marzo 2077
+Decisamente Eddie e' uno stronzo: mentre tornavo dalla mia visita a Ward l'ho visto vicino al CIT, stava parlando con Bernie Isaacs.
+Lui non lo sa ma Bernie Isaacs e' un mio cliente e so anche dove abita, domani sera gli faro' una visita per parlare un po'.
+Perche' Issacs e' lo studente piu' brillante del CIT (per forza, con tutte le Mentats che gli ho venduto, per non parlare del resto!), sta facendo due dottorati contemporaneamente: in Robotica Avanzata e Fisica Nucleare, e se la prima porta alla RobCo la seconda e' sotto stretto controllo della DIA, e io voglio sapere cosa c'entra Eddie con tutti loro, e se il fatto che Eddie sia nel mirino della BADTFL puo' fare crollare tutto il mio castello.
+L'unica nota tranquillizzante me l'ha data Ward, mi ha assicurato che in pochi giorni puo' crearmi una nuova identita' e trasferire tutto a Washington D.C (la costa ovest e' troppo scontata, a dir lui, e Washington e' una metropoli nella quale diventerei invisibile, ha ragione).
+Nessuno sa che io e Eddie siamo fratelli, ma non si sa mai, soprattutto se si sta legando in qualche modo a RobCo e DIA.
+
+7 marzo 2077
+Ieri sera ci sono andato, a casa di Isaacs.
+Sembrava stupito della visita, mi ha fatto salire e mi sono trovato in mezzo a una bella riunione: Isaacs, Eddie, Widmark, Zawinski, Harkin, Delano, la Ciroletti, quello stronzo di Anders (e' veramente della DIA) e un tizio senza nome che pero' puzzava di Vault-Tec da un miglio di distanza.
+Mi hanno detto di restarne fuori, che la situazione era sotto controllo, di continuare a fare il mio lavoro (lavoro!) alla Vault-at-Home poi Anders mi ha spezzato il braccio destro senza proferire una parola e infine mi hanno messo su un taxi e mandato a casa.
+Quello stronzo di Eddie mi ha tenuto fermo mentre Anders me lo spezzava.
+Devo telefonare a Ward di fare il piu' presto possibile.
+
+19 ottobre 2077
+Eddie aveva ragione, li ha presi tutti per il culo, anche il Boston Bugle ha un articolone in prima pagina in cui dicono chiaro e tondo che le indagini sono cessate.
+Pero' cazzo, Eddie, dove sei?
+E' una settimana che ti cerco dappertutto, sembri scomparso, neppure Claire sa dove sei, e mi servi, sei l'unico al di fuori che puo' aiutarmi: di punto in bianco tutte le porte di accesso agli hub, ai tunnel, ecc... sono state chiude a chiave, tutte, e' una azione coordinata, sto sentendo gli atri via radio e janno chiuso tutto.
+Tutti i collegamenti fra i bunker sono inaccessibili, nessuno sa nulla, tu con i tuoi agganci potresti riuscire a imparare qualcosa ma sei ireperibile.
+Che cazzo sta succedendo?
+
+23 ottobre 2077
+Le bombe, cazzo, le bombe.
+Ho avuto appena il tempo di scendere nel bunker, e in quei pochi secondi ho rimpianto di aver imitato Jahani e di aver fatto l'ingresso dietro la casa e non dentro, come tutti gli altri.
+La radio e' muta, ce lo aspettavamo, aspetteremo il necessario perche' riprenda a funzionare pero' siamo tutti isolati e non sappiamo chi e' riuscito a mettersi in salvo e chi no.
+
+24 ottobre 2077
+QUELLO STRONZO DI JAHANI HA UN PASSEPARTOUT!
+Me lo sono visto entrare nel mio bunker dal tunnel, era disperato, sua moglie non ha fatto in tempo ad entrare e voleva sapere se era da me.
+Per fortuna la gabbia era vuota, l'ha guardata senza capire nulla mentre piangeva, poi di punto in bianco si e' girato e se n'e' andato.
+Non so dov'e' sua moglie, ma ora so che lui ha un passepartout per i tunnel.
