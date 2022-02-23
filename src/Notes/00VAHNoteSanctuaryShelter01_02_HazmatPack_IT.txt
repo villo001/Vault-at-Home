@@ -1,8 +1,11 @@
-Vault-at-Home
+<font face='$MAIN_Font' size='24'><p align='center'><b>Vault-at-Home</b></p></font><font face='$MAIN_Font' size='18'><p align='center'>Prepper Association</p></font>
+<font face='$MAIN_Font' size='18'><p align='left'><b>Nota di consegna<b></p>
+<font face='$MAIN_Font' size='18'><p align='left'>
+Data: 27 ottobre 2077
 
-Nota di consegna
+- collo: n.1 Tuta Hazmat
+- destinazione: Concord Shelter 01 (O'Keefe)
+- consegna: brevi manu
 
-- Destinazione: Concord Shelter 01 (O'Keefe)
-- Collo: Tuta Hazmat, n. 1
-
-Prelevata da Auriel Jahani (Presidente V@H), consegna brevi manu.
+(prelevata da Auriel Jahani, Presidente V@H)</p></font>
+<font face='$MAIN_Font' size='18'><p align='left'>Firma:    </font>Auriel Jahani</p>
